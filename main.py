@@ -13,7 +13,7 @@ class QuizApp:
         self.root.geometry("800x600")
         
         # Настройки API
-        self.API_KEY = "sk-d75b3a64d82042918ffefc966200a5a0"  # Замените на ваш ключ
+        self.API_KEY = "sk-d75b3a64d823492348zz8ffefc966200a5a0"  # Замените на ваш ключ
         self.API_URL = "https://api.deepseek.com/v1/chat/completions"
         
         # Цветовая схема
